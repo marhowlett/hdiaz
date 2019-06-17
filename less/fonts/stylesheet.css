@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Boxley';
+    src: url('Boxley.woff2') format('woff2'),
+        url('Boxley.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('SansationBold.woff2') format('woff2'),
+        url('SansationBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyMedium';
+    src: url('BoxleyMedium.woff2') format('woff2'),
+        url('BoxleyMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraLight';
+    src: url('BoxleyExtraLight.woff2') format('woff2'),
+        url('BoxleyExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBlack';
+    src: url('BoxleyExtraBlack-Italic.woff2') format('woff2'),
+        url('BoxleyExtraBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Dynasty Extra';
+    src: url('DynastyExtraLight.woff2') format('woff2'),
+        url('DynastyExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyThin';
+    src: url('BoxleyThin.woff2') format('woff2'),
+        url('BoxleyThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyLight';
+    src: url('BoxleyLight-Italic.woff2') format('woff2'),
+        url('BoxleyLight-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyBlack';
+    src: url('BoxleyBlack.woff2') format('woff2'),
+        url('BoxleyBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyMedium';
+    src: url('BoxleyMedium-Italic.woff2') format('woff2'),
+        url('BoxleyMedium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Boxley';
+    src: url('Boxley-Italic.woff2') format('woff2'),
+        url('Boxley-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Boxley';
+    src: url('Boxley-BoldItalic.woff2') format('woff2'),
+        url('Boxley-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyLight';
+    src: url('BoxleyLight.woff2') format('woff2'),
+        url('BoxleyLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBlack';
+    src: url('BoxleyExtraBlack.woff2') format('woff2'),
+        url('BoxleyExtraBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBold';
+    src: url('BoxleyExtraBold.woff2') format('woff2'),
+        url('BoxleyExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraLight';
+    src: url('BoxleyExtraLight-Italic.woff2') format('woff2'),
+        url('BoxleyExtraLight-Italic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Boxley';
+    src: url('Boxley-Bold.woff2') format('woff2'),
+        url('Boxley-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBold';
+    src: url('BoxleyExtraBold-Italic.woff2') format('woff2'),
+        url('BoxleyExtraBold-Italic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyBlack';
+    src: url('BoxleyBlack-Italic.woff2') format('woff2'),
+        url('BoxleyBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyThin';
+    src: url('BoxleyThin-Italic.woff2') format('woff2'),
+        url('BoxleyThin-Italic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+

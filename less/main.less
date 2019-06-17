@@ -1,0 +1,498 @@
+@font-face {
+    font-family: 'Boxley';
+    src: url('fonts/Boxley.woff2') format('woff2'),
+        url('fonts/Boxley.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('fonts/SansationBold.woff2') format('woff2'),
+        url('fonts/SansationBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyMedium';
+    src: url('fonts/BoxleyMedium.woff2') format('woff2'),
+        url('fonts/BoxleyMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraLight';
+    src: url('fonts/BoxleyExtraLight.woff2') format('woff2'),
+        url('fonts/BoxleyExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBlack';
+    src: url('fonts/BoxleyExtraBlack-Italic.woff2') format('woff2'),
+        url('fonts/BoxleyExtraBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Dynasty Extra';
+    src: url('fonts/DynastyExtraLight.woff2') format('woff2'),
+        url('fonts/DynastyExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyThin';
+    src: url('fonts/BoxleyThin.woff2') format('woff2'),
+        url('fonts/BoxleyThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyLight';
+    src: url('fonts/BoxleyLight-Italic.woff2') format('woff2'),
+        url('fonts/BoxleyLight-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyBlack';
+    src: url('fonts/BoxleyBlack.woff2') format('woff2'),
+        url('fonts/BoxleyBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyMedium';
+    src: url('fonts/BoxleyMedium-Italic.woff2') format('woff2'),
+        url('fonts/BoxleyMedium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Boxley';
+    src: url('fonts/Boxley-Italic.woff2') format('woff2'),
+        url('fonts/Boxley-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Boxley';
+    src: url('fonts/Boxley-BoldItalic.woff2') format('woff2'),
+        url('fonts/Boxley-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyLight';
+    src: url('fonts/BoxleyLight.woff2') format('woff2'),
+        url('fonts/BoxleyLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBlack';
+    src: url('fonts/BoxleyExtraBlack.woff2') format('woff2'),
+        url('fonts/BoxleyExtraBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBold';
+    src: url('fonts/BoxleyExtraBold.woff2') format('woff2'),
+        url('fonts/BoxleyExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraLight';
+    src: url('fonts/BoxleyExtraLight-Italic.woff2') format('woff2'),
+        url('fonts/BoxleyExtraLight-Italic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Boxley';
+    src: url('fonts/Boxley-Bold.woff2') format('woff2'),
+        url('fonts/Boxley-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoxleyExtraBold';
+    src: url('fonts/BoxleyExtraBold-Italic.woff2') format('woff2'),
+        url('fonts/BoxleyExtraBold-Italic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyBlack';
+    src: url('fonts/BoxleyBlack-Italic.woff2') format('woff2'),
+        url('fonts/BoxleyBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BoxleyThin';
+    src: url('fonts/BoxleyThin-Italic.woff2') format('woff2'),
+        url('fonts/BoxleyThin-Italic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+.row {
+    
+    display: inherit;
+}
+/* Ajustes generales de la plantilla */
+.whb-scroll-stick .woodmart-logo img {  
+   max-height: 90px;
+    margin-top: -12px;
+        transform: scale(1.4) translateY(17px);
+}
+@import "vars";
+
+
+
+/*Ajuste de FullWidth*/
+
+.page-template {
+    .container {
+        max-width: 100%;
+        width: 100%;
+    }
+}
+
+
+/*Esquema por defecto para las secciones*/
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    .col {
+        width: 50%;
+    }
+    .col2 {
+            width: 33.33%;
+    }
+}
+
+/*Ajuste general*/
+ol {
+    list-style: decimal;
+}
+
+.template-section {
+   
+        padding: 50px 0;
+    
+
+    .contenedor {
+        max-width: 1100px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .col {
+        min-height: 500px;
+        padding: 60px;
+    }
+    .col2 {
+        min-height: 500px;
+        padding: 60px;
+    }
+    
+    h1 {
+        color: white;
+         font-family: 'Sansation';
+        font-weight: bold;
+            font-size: 68px;
+        
+    }
+
+    h2 {
+        color: white;
+        font-family: 'Sansation';
+        font-size: 3.0em;
+        font-weight: bold;
+        line-height: 1.3em;
+
+    }
+
+    p,
+    ul {
+        color: @grisoscuro;
+        font-size: 1.2em;
+        font-family: 'Boxley';
+        strong {
+            font-family: 'BoxleyExtraBold';
+            
+        }
+        span {
+            font-family: 'BoxleyBlack';
+        }
+    }
+
+    ul {
+        li {
+            color: @grisoscuro;
+              font-family: 'Boxley';
+            position: relative;
+            margin-left: 15px;
+            margin-bottom: 10px;
+            &::before {
+                content: "•";
+                color: @azul;
+                padding-right: 10px;
+                position: absolute;
+                left: -15px;
+            }
+        }
+      
+
+        
+    }
+
+
+
+  
+
+    .btn {
+        transition: all 0.3s ease-in-out;
+         font-family: 'Boxley';
+            text-transform: none;
+            font-size: 1.8em;
+         -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 5px;
+            background: @amarillo;
+            color: @azuloscuro;
+            &:hover {
+                background: @azuloscuro;
+                color: @amarillo;
+            }
+        
+    }
+    .center {
+        text-align: center;
+    }
+}
+#about {
+        padding: inherit;
+    .fondo {
+          background: url(../img/drhlentillas.png) no-repeat center;
+    }
+    p {
+            max-width: 400px;
+        &.primera {
+                margin-top: 65px;
+        }
+        
+    }
+    .prueba_col {
+        background-color:  @gris;
+    }
+    h2 {
+            position: relative;
+    top: 339px;
+       left: 200px;
+    }
+    .hh {
+        color: @azul;
+    }
+}
+#dental {
+        padding: inherit;
+    .fondo {
+          background: url(../img/bigH.png) no-repeat center;
+    }
+     .prueba_col {
+        background-color:  @azul;
+    }
+    p {
+        color: white;
+         max-width: 400px;
+    }
+    h2 {
+           
+        &.primera {
+                   margin-top: 15px;
+        }
+        
+    }
+    h2, p, .btn {
+            position: relative;
+    left: 190px;
+    }
+}
+
+#four {
+     padding: inherit;
+    .f1 {
+         background: url(../img/Capa22.png) no-repeat center;
+    }
+    .f2 {
+         background: url(../img/Capa23.png) no-repeat center;
+    }
+    .f3 {
+         background: url(../img/Capa24.png) no-repeat center;
+    }
+    .f4 {
+         background: url(../img/Capa25.png) no-repeat center;
+    }
+    .f5 {
+         background: url(../img/Capa26.png) no-repeat center;
+    }
+    .f6 {
+         background: url(../img/Capa27.png) no-repeat center;
+    }
+    h2 {
+        text-shadow: 2px 2px rgba(29,37,44,0.6);
+            position: relative;
+    top: 300px;
+            left: 20px;
+        font-size: 2.8em;
+   
+    }
+    .col2 {
+            padding: 30px;
+        min-height: 490px;
+    }
+    
+}
+#reviews {
+    background-color: @azul;
+    h2 {
+        text-align: center;
+    }
+}
+
+#frequently {
+     padding: inherit;
+    .fondo {
+     background: url(../img/frequently.png) no-repeat center;
+    }
+    
+          
+    h3 {
+        color: @azul;
+        font-weight: bold;
+    }
+    h2 {
+         text-shadow: 2px 2px rgba(29,37,44,0.6);
+            left: 200px;
+    position: relative;
+    top: 292px;
+       left: 200px;
+    }
+        
+}
+
+#make {
+     padding: inherit;
+    .prueba_col {
+        background-color: @azuloscuro;
+    }
+    .fondo {
+         background: url(../img/make.png) no-repeat center;
+    }
+          
+            li {
+                 max-width: 400px;
+            color: white;
+              font-family: 'Boxley';
+            position: relative;
+            margin-left: 15px;
+            margin-bottom: 10px;
+                &.we {
+                    margin-top: 20px;
+                    list-style: none;
+                }
+                &::before {
+               
+                 color: white;
+                padding-right: 10px;
+                position: absolute;
+                left: -15px;
+            }
+            }
+    img {
+            position: relative;
+    left: 20px;
+        margin-left: 20px;
+    }
+    h2, ol {
+            position: relative;
+    left: 190px;
+    }
+    h2 {
+            margin-top: 50px;
+        span {
+                font-size: 32px;
+        }
+    }
+}
+#card {
+    padding: inherit;
+    .fondo {
+         background: url(../img/card.png) no-repeat center;
+    }
+    .prueba_col {
+        background-color: @azul;
+    }
+    li {
+                 max-width: 400px;
+            color: white;
+              font-family: 'Boxley';
+            position: relative;
+            margin-left: 15px;
+            margin-bottom: 10px;
+        list-style: none;
+    }
+    h2 {
+             line-height: 30px;
+        margin-bottom: 20px;
+        span {
+                font-size: 32px;
+        }
+        &.how {
+            text-shadow: 2px 2px rgba(29,37,44,0.6);
+            left: 200px;
+    position: relative;
+        top: 320px;
+   left: 190px;
+        }
+    }
+    img {
+        margin-right: 20px;
+        &.pay {
+            margin-right: 40px;
+        }
+    }
+    
+    
+}
+#contacto {
+    background: url(../img/1968.png) no-repeat center;
+    
+}
+
+@import "responsive";
