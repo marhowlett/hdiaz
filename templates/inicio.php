@@ -200,7 +200,39 @@ we accept</span></h2>
             </div>
       
     </section>
-<?php include 'contacto.php'; ?>
+       <?php include 'contacto.php'; ?>
+        <section id="cardcont" class="template-section">
+
+            <div class="grid">
+
+                <div class="col fondo">
+                   
+
+                </div>
+                <div class="col prueba_col">
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.9241093897303!2d-99.1772552708567!3d19.38229256428033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe0f6b1ad25%3A0x9fc3a9ee39002031!2sH%26H+Dental+Implant+Center+Mexico+City!5e0!3m2!1ses-419!2smx!4v1561398657151!5m2!1ses-419!2smx" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                 
+                    
+
+                    <p><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/reloj.png" alt="Iconos">Monday to Friday 10:00-14:00 & 16:00-20:00 Saturdays 9:00 -14:00</p>
+                    <p><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatssap.png" alt="Iconos"> +52 1 55-55-9848-35</p>
+                    <p><img class="pay" src="<?php echo get_stylesheet_directory_uri(); ?>/img/mapa.png" alt="Iconos"> Detroit #9-1403, Nochebuena, Benito Juárez, Ciudad de México ZIP code 03720</p>
+                    
+                <div class="center">
+                    <img class="face" src="<?php echo get_stylesheet_directory_uri(); ?>/img/facebook.png" alt="Iconos">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/instagram.png" alt="Iconos">
+                </div>
+
+                 
+               
+                </div>
+
+
+            </div>
+      
+    </section>
+    
+
 
 <?php 
     get_footer();
