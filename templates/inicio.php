@@ -2,7 +2,9 @@
     /* Template Name: Inicio */ 
     get_header();
 ?>
-
+ <section id="slider" >
+  <?php echo do_shortcode( '[rev_slider alias="dental"]' ); ?>
+</section>
 <section id="about" class="template-section">
 
         
@@ -102,7 +104,7 @@ veneers</h2>
 </section>
 
  <section id="testimonios" class="template-section">
-   <h2>blablabla</h2>
+  <?php echo do_shortcode( '[elfsight_testimonials_slider id="1"]' ); ?>
 </section>
 <section id="reviews" class="template-section">
   <div class="center">

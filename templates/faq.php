@@ -2,7 +2,7 @@
     /* Template Name: FAQ */ 
     get_header();
 ?>
-<section id="frequently" class="template-section">
+<section id="frequen" class="template-section">
 
          <h1>Frequently Asqued Questions </h1>
                

@@ -223,6 +223,11 @@ ol {
 .template-section .center {
   text-align: center;
 }
+#slider span {
+  color: #fffe00;
+  font-weight: bold;
+  font-size: 15px!important;
+}
 #about {
   padding: inherit;
 }
@@ -414,6 +419,10 @@ ol {
   background-color: transparent!important;
   border: 2px solid #009fb8!important;
   font-family: 'Boxley';
+}
+#contacto .caldera-grid .form-control h2,
+#contacto .caldera-grid output h2 {
+  color: #009fb8;
 }
 #contacto .caldera-grid .form-control::placeholder,
 #contacto .caldera-grid .form-control {
@@ -1244,13 +1253,28 @@ ol {
     transform: rotate(90deg);
   }
 }
-#frequently {
+#frequen {
   padding: 115px 0;
   background: url(../img/frequen.png) no-repeat center;
 }
-#frequently h1 {
+#frequen h1 {
   text-align: center;
   font-size: 65px;
+}
+.whb-scroll-stick .woodmart-logo img {
+  margin-top: -46px;
+}
+.main-page-wrapper {
+  padding-top: inherit;
+}
+.eapps-testimonials-slider-page-item-author-info-logo-container {
+  display: none;
+}
+.eapps-testimonials-slider-page-item-tiled-postcard {
+  width: calc(50% - 32px)!important;
+}
+.whb-color-dark .navigation-style-underline .item-level-0 > a {
+  color: #009fb8;
 }
 @media screen and (min-width: 1800px) {
   #frequently h2,
