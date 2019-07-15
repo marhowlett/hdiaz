@@ -18,11 +18,11 @@
 
                 </div>
                 <div class="col prueba_col">
-                   <p class="primera"><strong class="hh">H&H</strong> is an advanced Dental Clinic that specializes in <strong>implant dentistry</strong>, we provide personalized dental treatments. </p>
+                   <p class="primera"><strong class="hh">H&H</strong> is an advanced Dental Clinic specialized in <strong>implant dentistry</strong>, we provide personalized dental treatments. </p>
  
-<p>Returning the esthetic, function and health to your mouth to our patients from home and abroad.</p>
+<p>Recovering the esthetic, function and health to our patients´ mouth from home and abroad.</p>
                 
-                 <a href="#" class="btn">More Details</a>
+                 <a href="https://dentalmexicocity.com/about-us/" class="btn">More Details</a>
                
                 </div>
 
@@ -40,9 +40,9 @@
                 <div class="col prueba_col">
                     <h2 class="primera">About our <br>
 dental treatments</h2>
-                    <p>In our Dental center in the hearth of Mexico City, our dental specialist <strong>offer the same treatments, with the same quality brands and materials used in the US or Canada, for a fraction of the price.</strong></p>
+                    <p>In our Dental center in the heart of Mexico City, our dental specialist <strong>offer the same treatments, with the same quality brands and materials used in the US or Canada, for a fraction of the price.</strong></p>
                
-                 <a href="#" class="btn">See all treatments</a>
+                 <a href="https://dentalmexicocity.com/treatments/" class="btn">See all treatments</a>
                 
 
                 </div>
@@ -117,7 +117,7 @@ veneers</h2>
             <div class="grid">
 
                 <div class="col fondo">
-                    <h2>Frequently <br> Asqued Questions </h2>
+                    <h2>Frequently <br> Asked Questions </h2>
 
                 </div>
                 <div class="col prueba_col">
@@ -125,7 +125,7 @@ veneers</h2>
                      <ol>
 
                     <li >All of your staff is bilingual? </li>
-                    <li>what’s included in the price?  </li>
+                    <li>What’s included in the price?  </li>
                     <li> Do you offer any package that includes plane tickets, transport or hotel logging?</li>
                     <li>Payment methods</li>
                     <li>How can I set an appointment? </li>
@@ -151,13 +151,13 @@ veneers</h2>
             <div class="grid">
 
                 <div class="col prueba_col">
-                    <h2>Make a resevation! <br>
+                    <h2>Make a reservation! <br>
 <span>In just 3 simple steps</span> </h2>
                 
                      <ol>
 
                     <li >Contact us, <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/email.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/skype.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatssap.png" alt="Iconos"></li>
-                    <li>Receive an approximated estimate for your case*</li>
+                    <li>Receive an estimate for your case*</li>
                     <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evealuation of your case</li>
                     
 

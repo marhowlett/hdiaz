@@ -300,7 +300,7 @@ ol {
     span {
         color: @amarillo;
         font-weight: bold;
-        font-size: 15px!important;
+        font-size: 20px!important;
     }
 }
 #about {
@@ -503,14 +503,15 @@ ol {
         padding: inherit;
         margin-top: -32px;
     background: url(../img/1968.png) no-repeat center;
+     h2 {
+            color: @azul;
+        }
     .caldera-grid .form-control, .caldera-grid output {
     color: @azul;
             background-color: transparent!important;
             border: 2px solid #009fb8!important;
          font-family: 'Boxley';
-        h2 {
-            color: @azul;
-        }
+       
        
   
 }
@@ -707,15 +708,18 @@ ol {
     .f4 {
          background: url(../img/values4.png) no-repeat left;
     }
+    .col {
+        min-height: 688px;
+    }
      h3 {
          text-shadow: 2px 2px black;
          color: white;
         position: relative;
-               top: 357px;
-    font-size: 40px;
+                   top: 462px;
+    font-size: 60px;
          &.dos {
               position: relative;
-             left: 350px;
+                left: 280px;
          }
     }
     
@@ -865,7 +869,9 @@ ol {
         text-align: center;
         color: white;
     }
-   
+    p {
+            font-size: 1.6em;
+    }
 
 }
 
@@ -885,12 +891,12 @@ ol {
         background: url(../img/crown.png) no-repeat center;
     }
     .col {
-    min-height: 650px;
+        min-height: 695px;
     }
     h2 {
             position: relative;
     line-height: 1;
-    top: 444px;
+       top: 482px;
     font-size: 65px;
         span {
                 font-size: 55px;
@@ -1483,4 +1489,107 @@ h2 {
     color: @azul;
     
 }
+
+/*STAAAAFF*/
+
+#alberto {
+    .colimg2 {
+            min-height: 500px;
+    padding: 60px;
+        width: 50%;
+        background-color: @azul;
+            max-width: 567px;
+        position: relative;
+    right: 36px;
+        p {
+            color: white;
+            text-align: justify;
+            
+        }
+    }
+    .colimg1 {
+        width: 50%;
+            z-index: 1;
+        
+    }
+    
+}
+#santiago {
+        .colimg2 {
+            min-height: 500px;
+       padding: inherit;
+        width: 50%;
+      background-color: white;
+            max-width: 567px;
+      
+    }
+    .colimg1 {
+            z-index: 2;
+        width: 50%;
+             padding: 60px;
+    
+    .dr {
+        background-color: @azul;
+            margin-left: -61px;
+       margin-right: -141px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+            margin-bottom: 30px;
+    }
+    h2 {
+         font-size: 68px;
+            position: relative;
+    left: 290px;
+    }
+    
+        p {
+                text-align: justify;
+    max-width: 333px;
+                position: relative;
+    left: 233px;
+        }
+    }
+}
+#adriana {
+        .colimg2 {
+            min-height: 500px;
+       padding: inherit;
+        width: 50%;
+      background-color: white;
+          
+      
+    }
+    .colimg1 {
+            z-index: 2;
+        width: 50%;
+             padding: 60px;
+    
+    .dr {
+        background-color: @azul;
+                 margin-left: -141px;
+       margin-right: -141px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+            margin-bottom: 30px;
+    }
+    h2 {
+         font-size: 68px;
+            position: relative;
+           left: 210px;
+    }
+    
+        p {
+                text-align: justify;
+    max-width: 333px;
+                position: relative;
+           left: 75px;
+        }
+    }
+}
+.contstaff {
+            margin-top: -49px!important;
+            position: relative;
+    top: -39px;
+}
+
 @import "responsive";

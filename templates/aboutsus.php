@@ -12,11 +12,11 @@
     </section>
     <section id="aboutus2" class="template-section">
      <div class="contenedor">
-       <p>With over 30 years working in the dental implant field, and in constant update, Dr Alberto H Díaz, one of the founders of the Department of Implantology of the National University of Mexico, national and international speaker, leads next to his son Dr Santiago,  H&H Dental Implants, with a prepared team of dentists certified national and internationally .</p>
+       <p>With over 30 years working in the dental implant field, and in constant update, Dr. Alberto H Díaz, one of the founders of the Department of Implantology of the National University of Mexico (UNAM), national and international speaker, leads next to his son Dr Santiago,  H&H Dental Implants, with a prepared team of dentists certified national and internationally .</p>
  
-<p>We are a dental clinic specialized in implant dentistry, we offer a wide variety of dental treatments all of them personalized so they can bring back the esthetic, health and function to all our patients from home or abroad.</p>
+<p>We are a dental clinic specialized in implant dentistry, we offer a wide variety of dental treatments, all of them personalized so they can bring back the esthetic, health and function to all our patients from home or abroad.</p>
 
-<p>Our team will get you the warm, personal, quick and special attention that you deserve. Our bilingual staff aloud us to focus on <strong>medical tourism, so we make the best of your visit and fulfill the highest quality standards of the same dental treatments for just a portion of the cost compared to the US.</strong></p>
+<p>Our team will give you a warm, personal quick and special attention that you deserve. Our bilingual staff allow us to focus on <strong>medical tourism, so we make the best of your visit and fulfill the highest quality standards of the same dental treatments for just a portion of the cost compared to the US.</strong></p>
         </div>
 </section>
 
@@ -28,8 +28,8 @@
                    <div class="missi">
                 <h2>Mission:</h2>
                     </div>
-                <p>Perform the most advanced dental treatments with the best specialized professionals restoring your oral health, providing adequate function and esthetic to all of our patients.  </p>
-                <p class="fit">We fit to ourpatients’necessities, we listen what they want, so we can set a goal and achieve it, maintaining quality and getting total satisfaction from them.</p>
+                <p>Perform the most advanced dental treatments with the best specialized professionals restoring your oral health, Providing a suitable function an esthetic to all of our patients.  </p>
+                <p class="fit">We fit our patients´ necessities, we listen what they want, so we can set a goal and achieve it, maintaining quality and getting total satisfaction from them.</p>
                 
                 </div>
               
@@ -58,7 +58,7 @@
                    <div class="missi">
                 <h2>Vision:</h2>
                     </div>
-                <p>Be the best specialized dental clinic, offering the most advanced dental treatments with specialized professionals restoring you</p>
+                <p>Be the best specialized dental clinic, offering the most advanced dental treatments with specialized professionals.</p>
                 
                 </div>
   </div>
@@ -143,7 +143,7 @@
 
                 </div>
                 <div class="col prueba_col">
-                   <h2>Make a resevation! <br>
+                   <h2>Make a reservation! <br>
 <span>In just 3 simple steps</span> </h2>
                 
                      <ol>

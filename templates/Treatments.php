@@ -37,7 +37,7 @@
             <div class="grid">
 
                 <div class="col imp">
-                    <p class="dental2"> <strong>Implants are the best way to recover one or more missing tooth, recovering the function </strong>, esthetic but above all else the confidence to eat and smile again.</p>
+                    <p class="dental2"> <strong>Implants are the best way to recover one or more missing teeth, </strong>recovering the function , esthetic but above all the confidence to eat and smile again.</p>
                  <div class="center"> <a href="#" class="btn">More Details</a></div>
 
                 </div>
@@ -56,7 +56,7 @@
     <section id="rege" class="template-section">
 
         
-                    <h2>Regeneration <span>and bony grafts</span></h2>
+                    <h2>Regeneration <span>and bony grafs</span></h2>
                     
 
                
@@ -64,7 +64,7 @@
 <section id="rege2" class="template-section">
 
          <div class="contenedor">
-                   <p><strong>When a lot of one have been lost due to periodontal disease or any other cause</strong>, there are a bunch of procedures that can help us to achieve bone augmentation, so we can place dental implants in the close </p>
+                   <p><strong>When a lot of bone has been lost due to periodontal disease or any other cause</strong>, there are a bunch of procedures that can help us to achieve bone augmentation, so we can place dental implants. </p>
                     <div class="center"> <a href="#" class="btn">More Details</a></div>
     </div>
 
@@ -94,12 +94,12 @@ prosthesis </span> </h2>
             <div class="grid">
 
                 <div class="col imp">
-                    <p class="dental2"> <strong>They are the traditional and old-fashioned </strong>way to recover lost teeth, it’s a removable device that rest in the remaining hard and softtissues of the mouth, giving back the esthetic appearance.</p>
+                    <p class="dental2"> <strong>They are the traditional and old-fashioned </strong>way to recover lost teeth, it’s a removable device that rest in the remaining hard and soft tissues of the mouth, giving back the esthetic appearance.</p>
                  <div class="center"> <a href="#" class="btn">More Details</a></div>
 
                 </div>
                 <div class="col imp2">
-                    <p> <strong>This restauration perfectly fits a prepared or damaged tooth, giving it back his shape and natural look,</strong> his is the best way to restore any piece that has been fractured, destroyed by severe decay or root canal treatment. </p>
+                    <p> <strong>This restauration perfectly fits a prepared or damaged tooth, giving it back his shape and natural look,</strong> this is the best way to restore any piece that has been fractured, destroyed by severe decay or root canal treatment. </p>
                  <div class="center"> <a href="#" class="btn">More Details</a></div>
                
                 </div>
@@ -121,7 +121,7 @@ prosthesis </span> </h2>
     <section id="rege2" class="template-section">
 
          <div class="contenedor">
-                   <p><strong>Best known as root canal treatment, it’s the complete removal of the sensitive part of the tooth, </strong>, when its beyond repair or its experiencing severe pain, then the remaining canal its filled with a biocompatible material.</p>
+                   <p><strong>Best known as root canal treatment, it’s the complete removal of the sensitive part of the tooth, </strong> when its beyond repair or its experiencing severe pain, then the remaining canal its filled with a biocompatible material.</p>
                     <div class="center"> <a href="#" class="btn">More Details</a></div>
     </div>
 </section>
@@ -130,12 +130,12 @@ prosthesis </span> </h2>
             <div class="grid">
 
                 <div class="col prueba_col">
-                    <h2 class="dental">Fillings with
+                    <h2 class="dental">"Fillings with
 <br>
-<span>composite</span> </h2>
+<span>composite"</span> </h2>
                 
              <div class="imp">
-                    <p class="dental2"> <strong>By eliminating decay and removing the problem,</strong>, the remaining structure its esthetically restored using a composite resin with the same color of the adjacent teeth.</p>
+                    <p class="dental2"> <strong>By eliminating decay and removing the problem,</strong> the remaining structure its esthetically restored using a composite resin with the same color of the adjacent teeth.</p>
                  <div class="center"> <a href="#" class="btn">More Details</a></div>
 
                 </div>     
@@ -162,7 +162,7 @@ prosthesis </span> </h2>
                     <h2 class="dental">Cleaning  </h2>
                 
              <div class="imp">
-                    <p class="dental2"> <strong>Prior to any treatment is recommended to do a deep cleaning,</strong>eliminating any calculus deposits that attaches to the dental surface. We use ultrasonic scalers to reach any corner of the oral cavity.</p>
+                    <p class="dental2"> <strong>Prior to any treatment is recommended to do a deep cleaning,</strong> eliminating any calculus deposits that attaches to the dental surface. We use ultrasonic scalers to reach any corner of the oral cavity.</p>
                  <div class="center"> <a href="#" class="btn">More Details</a></div>
 
                 </div>     
@@ -188,7 +188,7 @@ prosthesis </span> </h2>
 <section id="rege2" class="template-section">
 
          <div class="contenedor">
-                   <p><strong>Stains from food, tobacco, coffee or tea can work their way deepinto the enamel of your teeth. </strong>, Teeth whitening works with a gel that is applied over the dental surface that provides a thorough removal of these stains from your enamel, rejuvenating your teeth with amazing whiteness.</p>
+                   <p><strong>Stains from food, tobacco, coffee or tea make their way deep into the enamel of your teeth. </strong>, Teeth whitening works with a gel that is applied over the dental surface that provides a thorough removal of these stains from your enamel, rejuvenating your teeth with amazing whiteness.</p>
                     <div class="center"> <a href="#" class="btn">More Details</a></div>
     </div>
 
@@ -199,7 +199,7 @@ prosthesis </span> </h2>
             <div class="grid">
 
                 <div class="col prueba_col">
-                    <h2>Make a resevation! <br>
+                    <h2>Make a reservation! <br>
 <span>In just 3 simple steps</span> </h2>
                 
                      <ol>

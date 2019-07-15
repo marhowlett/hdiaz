@@ -12,15 +12,15 @@
       <h2>Preguntas <i>frecuentes</i></h2>
     <div class="faq card">
     <article>
-    <h1 data-accordion-element-trigger>1.- All of your staff is bilingual?</h1>
+    <h1 data-accordion-element-trigger>1.- All your staff is bilingual?</h1>
     <div data-accordion-element-content class="content">
       <p>No, but all of our doctors are, so don’t worry you´ll be understand and everything will be clear for you.</p>
     </div>
   </article>
   <article>
-    <h1 data-accordion-element-trigger>2.- what’s included in the price?</h1>
+    <h1 data-accordion-element-trigger>2.- What’s included in the price?</h1>
     <div data-accordion-element-content class="content">
-      <p>Prices are referential, and they include the attention by the professional , use of the facilities and the necessary materials according to each treatment. Before starting your treatment and after de diagnosis an estimate will be sent to you according to your specific necessities.</p>
+      <p>Prices are referential and the professionals is attention, use of the facilities and the necessary materials according to each treatment. Before starting your treatment and after de diagnosis an estimate will be sent to you according to your specific necessities.</p>
     </div>
   </article>
   <article>
@@ -44,7 +44,7 @@
     <article>
     <h1 data-accordion-element-trigger>6. If I’m traveling to Mexico, when do I have to make my appointment</h1>
     <div data-accordion-element-content class="content">
-      <p>In the best-case scenario, it is recommended that you check availability with at least 2 weeks prior your trip so we can arrange everything for your dental attention.</p>
+      <p>In the best scenario, it is recommended that you check availability with at least 2 weeks prior your trip so we can arrange everything for your dental attention.</p>
     </div>
   </article>
       <article>
@@ -56,7 +56,7 @@
   <article>
     <h1 data-accordion-element-trigger>8. The location is safe.</h1>
     <div data-accordion-element-content class="content">
-      <p>Yes, we are in one of the best and safest zones of all the city, next toInsurgentes Ave., one of the longest in America, full of stores, banks, restaurants and malls.</p>
+      <p>Yes, we are in one of the best and safest zones of all the city, next to Insurgentes Ave., one of the longest in America, full of stores, banks, restaurants and “shopping malls”.</p>
     </div>
   </article>
   <article>
@@ -68,7 +68,7 @@
   <article>
     <h1 data-accordion-element-trigger>10. Do you attend children?</h1>
     <div data-accordion-element-content class="content">
-      <p>Yes we also have specialist in children attention. </p>
+      <p>Yes, we also have specialist in children attention. </p>
     </div>
   </article>
  

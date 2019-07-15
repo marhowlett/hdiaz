@@ -226,7 +226,7 @@ ol {
 #slider span {
   color: #fffe00;
   font-weight: bold;
-  font-size: 15px!important;
+  font-size: 20px!important;
 }
 #about {
   padding: inherit;
@@ -413,16 +413,15 @@ ol {
   margin-top: -32px;
   background: url(../img/1968.png) no-repeat center;
 }
+#contacto h2 {
+  color: #009fb8;
+}
 #contacto .caldera-grid .form-control,
 #contacto .caldera-grid output {
   color: #009fb8;
   background-color: transparent!important;
   border: 2px solid #009fb8!important;
   font-family: 'Boxley';
-}
-#contacto .caldera-grid .form-control h2,
-#contacto .caldera-grid output h2 {
-  color: #009fb8;
 }
 #contacto .caldera-grid .form-control::placeholder,
 #contacto .caldera-grid .form-control {
@@ -599,16 +598,19 @@ ol {
 #values2 .f4 {
   background: url(../img/values4.png) no-repeat left;
 }
+#values2 .col {
+  min-height: 688px;
+}
 #values2 h3 {
   text-shadow: 2px 2px black;
   color: white;
   position: relative;
-  top: 357px;
-  font-size: 40px;
+  top: 462px;
+  font-size: 60px;
 }
 #values2 h3.dos {
   position: relative;
-  left: 350px;
+  left: 280px;
 }
 #contacto2 {
   padding: inherit;
@@ -745,6 +747,9 @@ ol {
   text-align: center;
   color: white;
 }
+#treatments p {
+  font-size: 1.6em;
+}
 #treatments2 {
   padding: inherit;
 }
@@ -761,12 +766,12 @@ ol {
   background: url(../img/crown.png) no-repeat center;
 }
 #treatments2 .col {
-  min-height: 650px;
+  min-height: 695px;
 }
 #treatments2 h2 {
   position: relative;
   line-height: 1;
-  top: 444px;
+  top: 482px;
   font-size: 65px;
 }
 #treatments2 h2 span {
@@ -1271,10 +1276,94 @@ ol {
   display: none;
 }
 .eapps-testimonials-slider-page-item-tiled-postcard {
-  width: calc(50% - 32px)!important;
+  width: calc(18%) !important;
 }
 .whb-color-dark .navigation-style-underline .item-level-0 > a {
   color: #009fb8;
+}
+/*STAAAAFF*/
+#alberto .colimg2 {
+  min-height: 500px;
+  padding: 60px;
+  width: 50%;
+  background-color: #009fb8;
+  max-width: 567px;
+  position: relative;
+  right: 36px;
+}
+#alberto .colimg2 p {
+  color: white;
+  text-align: justify;
+}
+#alberto .colimg1 {
+  width: 50%;
+  z-index: 1;
+}
+#santiago .colimg2 {
+  min-height: 500px;
+  padding: inherit;
+  width: 50%;
+  background-color: white;
+  max-width: 567px;
+}
+#santiago .colimg1 {
+  z-index: 2;
+  width: 50%;
+  padding: 60px;
+}
+#santiago .colimg1 .dr {
+  background-color: #009fb8;
+  margin-left: -61px;
+  margin-right: -141px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+#santiago .colimg1 h2 {
+  font-size: 68px;
+  position: relative;
+  left: 290px;
+}
+#santiago .colimg1 p {
+  text-align: justify;
+  max-width: 333px;
+  position: relative;
+  left: 233px;
+}
+#adriana .colimg2 {
+  min-height: 500px;
+  padding: inherit;
+  width: 50%;
+  background-color: white;
+}
+#adriana .colimg1 {
+  z-index: 2;
+  width: 50%;
+  padding: 60px;
+}
+#adriana .colimg1 .dr {
+  background-color: #009fb8;
+  margin-left: -141px;
+  margin-right: -141px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+#adriana .colimg1 h2 {
+  font-size: 68px;
+  position: relative;
+  left: 210px;
+}
+#adriana .colimg1 p {
+  text-align: justify;
+  max-width: 333px;
+  position: relative;
+  left: 75px;
+}
+.contstaff {
+  margin-top: -49px !important;
+  position: relative;
+  top: -39px;
 }
 @media screen and (min-width: 1800px) {
   #frequently h2,
