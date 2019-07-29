@@ -693,7 +693,7 @@ ol {
   padding: inherit;
 }
 #card2 .fondo {
-  background: url(../img/272.png) no-repeat center;
+  background: url(../img/card.png) no-repeat center;
 }
 #card2 li {
   top: 80px;
@@ -1365,10 +1365,130 @@ ol {
   position: relative;
   top: -39px;
 }
+#learn {
+  background: url(../img/rec.png) no-repeat center;
+}
+#learn h2 {
+  position: relative;
+  left: 315px;
+  top: 15px;
+}
 @media screen and (min-width: 1800px) {
   #frequently h2,
   #card h2,
   #about h2 {
     left: 400px;
   }
+}
+@media screen and (max-width: 750px) {
+  /*LOGO*/
+  .whb-scroll-stick .woodmart-logo img {
+    padding-top: 0;
+    transform: scale(2) translateY(15px);
+  }
+  canvas {
+    touch-action: auto !important;
+  }
+  .scene-nav {
+    display: none;
+  }
+  /*Esquema por defecto para las secciones*/
+  .grid {
+    display: initial;
+  }
+  .grid .col {
+    width: 100%;
+  }
+  .grid .col2 {
+    width: 100%;
+  }
+  .grid.invertido {
+    flex-wrap: wrap-reverse;
+  }
+  .template-section a.btn {
+    margin: 0 auto;
+    display: block;
+    margin-top: 25px;
+    padding: 15px;
+    margin-left: 10px!important;
+    margin-right: 10px;
+  }
+  .template-section .col {
+    min-height: auto;
+    padding: 20px;
+  }
+  .template-section h1 {
+    font-size: 36px;
+  }
+  .template-section p,
+  .template-section h2,
+  .template-section h3 {
+    text-align: center;
+  }
+  #about .fondo {
+    background: url(../img/drhlentillasmovil.png) no-repeat center;
+    min-height: 535px;
+  }
+  #about h2 {
+    position: relative;
+    text-align: center;
+    top: 403px;
+    left: inherit;
+  }
+}
+#dental h2,
+#dental p,
+#dental .btn {
+  position: relative;
+  left: inherit;
+}
+#dental .fondo {
+  background: url(../img/Capa%2021.png) no-repeat center;
+  min-height: 510px;
+}
+#four h2 {
+  left: inherit;
+}
+#frequently .fondo {
+  background: url(../img/Capa%2029.png) no-repeat center;
+  min-height: 492px;
+}
+#frequently h2 {
+  top: 139px;
+  left: inherit;
+}
+#frequently h3 {
+  margin-top: 20px;
+}
+#make h2,
+#make ol {
+  position: relative;
+  left: inherit;
+}
+#make img {
+  position: relative;
+  left: inherit;
+}
+#make .fondo {
+  background: url(../img/Diapositiva1.png) no-repeat center;
+  min-height: 435px;
+}
+#card .fondo {
+  min-height: 625px;
+}
+#card h2.how {
+  top: 498px;
+  left: inherit;
+}
+#contacto img {
+  position: relative;
+  /* right: 20px; */
+  margin-top: 25px;
+}
+#contacto img.email {
+  margin-top: 0px;
+}
+#cardcont .fondo {
+  background: url(../img/157.png) no-repeat right;
+  min-height: 557px;
 }

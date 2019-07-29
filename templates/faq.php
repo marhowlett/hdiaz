@@ -4,7 +4,7 @@
 ?>
 <section id="frequen" class="template-section">
 
-         <h1>Frequently Asqued Questions </h1>
+         <h1>Frequently Asked Questions </h1>
                
     </section>
 <section class="template-section gris-faq padding-50 no-padding-mobile" id="faq">

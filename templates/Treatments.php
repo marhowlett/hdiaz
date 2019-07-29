@@ -94,7 +94,7 @@ prosthesis </span> </h2>
             <div class="grid">
 
                 <div class="col imp">
-                    <p class="dental2"> <strong>They are the traditional and old-fashioned </strong>way to recover lost teeth, it’s a removable device that rest in the remaining hard and soft tissues of the mouth, giving back the esthetic appearance.</p>
+                    <p class="dental2"> <strong>They are the traditional and old-fashioned </strong>way to recover lost teeth, it’s a removable device that rest in the remaining hard and soft issues of the mouth, giving back the esthetic appearance.</p>
                  <div class="center"> <a href="#" class="btn">More Details</a></div>
 
                 </div>
@@ -188,7 +188,7 @@ prosthesis </span> </h2>
 <section id="rege2" class="template-section">
 
          <div class="contenedor">
-                   <p><strong>Stains from food, tobacco, coffee or tea make their way deep into the enamel of your teeth. </strong>, Teeth whitening works with a gel that is applied over the dental surface that provides a thorough removal of these stains from your enamel, rejuvenating your teeth with amazing whiteness.</p>
+                   <p><strong>Stains from food, tobacco, coffee or tea make their way deep in to the enamel of your teeth. </strong> Teeth whitening works with a gel that is applied over the dental surface that provides a thorough removal of these stains from your enamel, rejuvenating your teeth with amazing whiteness.</p>
                     <div class="center"> <a href="#" class="btn">More Details</a></div>
     </div>
 
@@ -205,7 +205,7 @@ prosthesis </span> </h2>
                      <ol>
 
                     <li >Contact us, <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/email.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/skype.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatssap.png" alt="Iconos"></li>
-                    <li>Receive an approximated estimate for your case*</li>
+                    <li>Receive an estimate for your case*</li>
                     <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evealuation of your case</li>
                     
 
