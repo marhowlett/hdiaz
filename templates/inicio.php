@@ -138,7 +138,7 @@ veneers</h2>
                   <h3>Do you have any question? <br>
                   PLEASE </h3>
                 
-                 <a href="#" class="btn">More Details</a>
+                 <a href="https://dentalmexicocity.com/faq/" class="btn">More Details</a>
                
                 </div>
 

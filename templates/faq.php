@@ -9,7 +9,7 @@
     </section>
 <section class="template-section gris-faq padding-50 no-padding-mobile" id="faq">
     <div class="container">
-      <h2>Preguntas <i>frecuentes</i></h2>
+     
     <div class="faq card">
     <article>
     <h1 data-accordion-element-trigger>1.- All your staff is bilingual?</h1>
