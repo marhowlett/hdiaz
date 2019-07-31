@@ -411,6 +411,7 @@ ol {
 #contacto {
   padding: inherit;
   margin-top: -32px;
+  margin-bottom: -32px;
   background: url(../img/1968.png) no-repeat center;
 }
 #contacto h2 {
