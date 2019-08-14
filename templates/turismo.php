@@ -61,7 +61,7 @@ we accept</span></h2>
                      <ol>
 
                     <li ><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/dinero - copia.png" alt="Iconos"> USD in cash </li>
-                    <li ><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/tarjeta - copia.png" alt="Iconos"> Debit & Credit Cards (6% plus is added)  </li>
+                    <li ><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/tarjeta - copia.png" alt="Iconos"> Debit & Credit Cards </li>
                     <li ><img class="pay" src="<?php echo get_stylesheet_directory_uri(); ?>/img/paypal - copia.png" alt="Iconos"> Paypal </li>
                     
 

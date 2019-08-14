@@ -73,25 +73,25 @@
 
  <section id="our" class="template-section">
 
-       
+    
 
 
             <div class="grid">
 
                 <div class="col2 f1">
-                <h3>Dr Alberto H Díaz</h3>
+                <h3>Dr. Alberto H Díaz</h3>
                 <p>One of the founders of the Department of Implantology of the National University of Mexico. <br>
-                <u>More Details  </u></p>
+               <a href="https://dentalmexicocity.com/staff/"><u>More Details  </u></a> </p>
                 </div>
                 <div class="col2 f2">
-                <h3>Dra. Lucia Sánchez</h3>
-                <p>One of the founders of the Department of Implantology of the National University of Mexico<br>
-                <u>More Details  </u></p>
+                <h3>Dra. Adriana Oliver Padilla</h3>
+                <p>Our specialist in endodontics Dr Adriana, was born in Mexico City. She's a graduate from...<br>
+               <a href="https://dentalmexicocity.com/staff/">   <u>More Details  </u></a> </p>
                 </div>
                 <div class="col2 f3">
-                <h3>Dr Alberto H Díaz</h3>
-                <p>One of the founders of the Department of Implantology of the National University of Mexico<br>
-                <u>More Details  </u></p>
+                <h3>Dr. Santiago H Díaz Prieto</h3>
+                <p>Dr. Santiago discovered his passion for dentistry at a young age, taking inspiration from his father...<br>
+               <a href="https://dentalmexicocity.com/staff/"> <u>More Details  </u></a> </p>
                 </div>
      </div>
 </section>
@@ -175,7 +175,7 @@ we accept</span></h2>
                      <ol>
 
                     <li ><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/dinero - copia.png" alt="Iconos"> USD in cash </li>
-                    <li ><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/tarjeta - copia.png" alt="Iconos"> Debit & Credit Cards (6% plus is added)  </li>
+                    <li ><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/tarjeta - copia.png" alt="Iconos"> Debit & Credit Cards   </li>
                     <li ><img class="pay" src="<?php echo get_stylesheet_directory_uri(); ?>/img/paypal - copia.png" alt="Iconos"> Paypal </li>
                     
 

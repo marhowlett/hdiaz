@@ -570,13 +570,16 @@ ol {
 }
 #our .col2 {
   min-height: 492px;
-  padding: 80px;
+  padding: 70px;
 }
 #our h3,
 #our p {
   color: white;
   position: relative;
   top: 242px;
+}
+#our a {
+  color: white;
 }
 #our h3 {
   text-shadow: 2px 2px black;
@@ -1565,6 +1568,9 @@ ol {
   #our .f1 {
     background: url(../img/drhmovil.png) no-repeat right;
   }
+  #our .f2 {
+    background: url(../img/dradrismovil.png) no-repeat right;
+  }
   #our .col2 {
     min-height: 492px;
     padding: 30px;
@@ -1577,7 +1583,7 @@ ol {
     text-align: justify;
   }
   #our .f3 {
-    background: url(../img/staff3mvil.png) no-repeat center;
+    background: url(../img/drhjrmovil.png) no-repeat right;
   }
   #values2 .f1 {
     background: url(../img/values1movil.png) no-repeat center;
@@ -1585,6 +1591,9 @@ ol {
   #values2 .f2 {
     background: url(../img/equipomovil.png) no-repeat center;
     min-height: 568px!important;
+  }
+  #values2 .col {
+    min-height: 557px;
   }
   #values2 .f3 {
     background: url(../img/eficienciamovil.png) no-repeat center;
