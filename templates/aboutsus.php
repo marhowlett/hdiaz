@@ -150,7 +150,7 @@
 
                     <li >Contact us, <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/email 3.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/skype - copia.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatssap - copia.png" alt="Iconos"></li>
                     <li>Receive an estimate for your case*</li>
-                    <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evealuation of your case</li>
+                    <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evaluation of your case</li>
                     
 
 </ol>

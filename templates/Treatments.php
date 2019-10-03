@@ -38,12 +38,12 @@
 
                 <div class="col imp">
                     <p class="dental2"> <strong>Implants are the best way to recover one or more missing teeth, </strong>recovering the function , esthetic but above all the confidence to eat and smile again.</p>
-                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
 
                 </div>
                 <div class="col imp2">
                     <p> <strong>It’s a procedure for edentulous patients, or for the ones that will get all of their teeth removed. </strong> It gives the opportunity to get a fixed rehabilitation of a full arch (upper or lower) with just 4 or 6 implants.</p>
-                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
                
                 </div>
 
@@ -65,7 +65,7 @@
 
          <div class="contenedor">
                    <p><strong>When a lot of bone has been lost due to periodontal disease or any other cause</strong>, there are a bunch of procedures that can help us to achieve bone augmentation, so we can place dental implants. </p>
-                    <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                    <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
     </div>
 
                
@@ -95,12 +95,12 @@ prosthesis </span> </h2>
 
                 <div class="col imp">
                     <p class="dental2"> <strong>They are the traditional and old-fashioned </strong>way to recover lost teeth, it’s a removable device that rest in the remaining hard and soft issues of the mouth, giving back the esthetic appearance.</p>
-                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
 
                 </div>
                 <div class="col imp2">
                     <p> <strong>This restauration perfectly fits a prepared or damaged tooth, giving it back his shape and natural look,</strong> this is the best way to restore any piece that has been fractured, destroyed by severe decay or root canal treatment. </p>
-                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
                
                 </div>
 
@@ -122,7 +122,7 @@ prosthesis </span> </h2>
 
          <div class="contenedor">
                    <p><strong>Best known as root canal treatment, it’s the complete removal of the sensitive part of the tooth, </strong> when its beyond repair or its experiencing severe pain, then the remaining canal its filled with a biocompatible material.</p>
-                    <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                    <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
     </div>
 </section>
 <section id="composite" class="template-section">
@@ -136,7 +136,7 @@ prosthesis </span> </h2>
                 
              <div class="imp">
                     <p class="dental2"> <strong>By eliminating decay and removing the problem,</strong> the remaining structure its esthetically restored using a composite resin with the same color of the adjacent teeth.</p>
-                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
 
                 </div>     
 
@@ -163,7 +163,7 @@ prosthesis </span> </h2>
                 
              <div class="imp">
                     <p class="dental2"> <strong>Prior to any treatment is recommended to do a deep cleaning,</strong> eliminating any calculus deposits that attaches to the dental surface. We use ultrasonic scalers to reach any corner of the oral cavity.</p>
-                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                 <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
 
                 </div>     
 
@@ -189,7 +189,7 @@ prosthesis </span> </h2>
 
          <div class="contenedor">
                    <p><strong>Stains from food, tobacco, coffee or tea make their way deep in to the enamel of your teeth. </strong> Teeth whitening works with a gel that is applied over the dental surface that provides a thorough removal of these stains from your enamel, rejuvenating your teeth with amazing whiteness.</p>
-                    <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/07/HH_Treatments.pdf" class="btn">More Details</a></div>
+                    <div class="center"> <a href="https://dentalmexicocity.com/wp-content/uploads/2019/09/HH_Treatments-2_compressed.pdf" class="btn">More Details</a></div>
     </div>
 
                
@@ -206,7 +206,7 @@ prosthesis </span> </h2>
 
                     <li >Contact us, <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/email.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/skype.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatssap.png" alt="Iconos"></li>
                     <li>Receive an estimate for your case*</li>
-                    <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evealuation of your case</li>
+                    <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evaluation of your case</li>
                     
 
 </ol>

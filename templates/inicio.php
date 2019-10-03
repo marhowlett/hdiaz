@@ -158,7 +158,7 @@ veneers</h2>
 
                     <li >Contact us, <img src="<?php echo get_stylesheet_directory_uri(); ?>/img/email.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/skype.png" alt="Iconos"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/whatssap.png" alt="Iconos"></li>
                     <li>Receive an estimate for your case*</li>
-                    <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evealuation of your case</li>
+                    <li class="we"> *We can solicitate exams such as a CT scan, Xrays, to make an evaluation of your case</li>
                     
 
 </ol>
