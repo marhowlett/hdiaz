@@ -162,11 +162,27 @@
     
     display: inherit;
 }
-/* Ajustes generales de la plantilla */
-.whb-scroll-stick .woodmart-logo img {  
-   max-height: 90px;
-    margin-top: -12px;
-        transform: scale(1.4) translateY(17px);
+.woodmart-logo img {  
+ 
+            transform: scale(1) translateY(22px)!important;
+}
+html {
+  scroll-behavior: smooth;
+}
+@media (min-width: 1025px){
+
+.whb-general-header .woodmart-logo img {
+    max-height: max-content!important;
+}
+    }
+header a span.nav-link-text{
+     color: #088fa1;
+     font-size: 16px;
+    font-weight: normal;
+}
+
+.whb-row.whb-general-header.whb-not-sticky-row.whb-without-bg.whb-without-border.whb-color-dark.whb-flex-flex-middle .container, .whb-row.whb-top-bar.whb-not-sticky-row.whb-without-bg.whb-without-border.whb-color-dark.whb-flex-flex-middle .container {
+    max-width: 1200px!important;
 }
 @import "vars";
 
@@ -506,31 +522,9 @@ ol {
     background: url(../img/1968.png) no-repeat center;
      h2 {
             color: @azul;
-        }
-    .caldera-grid .form-control, .caldera-grid output {
-    color: @azul;
-            background-color: transparent!important;
-            border: 2px solid #009fb8!important;
-         font-family: 'Boxley';
-       
-       
-  
-}
-    .caldera-grid .form-control::placeholder, .caldera-grid .form-control  { 
-        color: @azul;
-       font-family: 'Boxley';
-        font-weight: bold;
-    }
-     .btn {
-        font-size: 25px;
-        padding: 10px 30px!important;
-        border-radius: 4px;
-             position: relative;
-    float: right;
-        &:hover {
-            color: white;
-        }
-    }
+ 
+    
+
     img {
         position: relative;
         right: 20px;
@@ -540,6 +534,42 @@ ol {
             top: 10px;
         text-align: right;
         color: @azul;
+    }
+                }
+    div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms-container-full .wpforms-form select.wpforms-field-medium, div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium {
+    max-width: 100%!important;
+}
+    
+     label.wpforms-field-label, input.wpforms-field-medium, textarea.wpforms-field-medium{
+       color: @azul;
+            background-color: transparent!important;
+            border: 2px solid #009fb8!important;
+         font-family: 'Boxley';
+    }
+input.wpforms-field-medium::placeholder, textarea.wpforms-field-medium::placeholder{
+    color: @azul;
+      font-weight: bold;
+}
+ 
+     .wpforms-submit-container {
+    text-align: right;
+}
+    
+   #wpforms-submit-36 {
+        transition: all 0.3s ease-in-out;
+         font-family: 'Boxley';
+            text-transform: none;
+            font-size: 1.8em;
+         -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 5px;
+            background: #009fb8;
+            color: white;
+            &:hover {
+                background: @azuloscuro;
+                color: @amarillo;
+            }
+        
     }
     
 }
@@ -774,30 +804,40 @@ ol {
         }
     }
         }
-    .caldera-grid .form-control, .caldera-grid output {
-    color: @azuloscuro;
+        div.wpforms-container-full .wpforms-form input.wpforms-field-medium, div.wpforms-container-full .wpforms-form select.wpforms-field-medium, div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium {
+    max-width: 100%!important;
+}
+    
+     label.wpforms-field-label, input.wpforms-field-medium, textarea.wpforms-field-medium{
+       color: @azuloscuro;
             background-color: transparent!important;
             border: 2px solid @azuloscuro!important;
          font-family: 'Boxley';
-
-  
-}
-    .caldera-grid .form-control::placeholder, .caldera-grid .form-control  { 
-        color: @azuloscuro;
-       font-family: 'Boxley';
-        font-weight: bold;
     }
-     .btn {
-        font-size: 25px;
-        padding: 10px 30px!important;
-        border-radius: 4px;
-             position: relative;
-    float: right;
-         background-color: @azuloscuro;
-         color: white;
-        &:hover {
+input.wpforms-field-medium::placeholder, textarea.wpforms-field-medium::placeholder{
+    color: @azuloscuro;
+      font-weight: bold;
+}
+ 
+     .wpforms-submit-container {
+    text-align: right;
+}
+    
+   #wpforms-submit-36 {
+        transition: all 0.3s ease-in-out;
+         font-family: 'Boxley';
+            text-transform: none;
+            font-size: 1.8em;
+         -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 5px;
+            background: @azuloscuro;
             color: white;
-        }
+            &:hover {
+                background: @azuloscuro;
+                color: @amarillo;
+            }
+        
     }
     img {
         position: relative;
